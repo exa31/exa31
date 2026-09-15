@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ==================== HEADER BANNER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E1B4B,100:00F5D4&height=220&section=header&text=Moh.%20Eka%20Syafrino%20Nazhifan&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20%26%20Cloud-Native%20Engineer%20%E2%80%A2%20TKJ%20Alumnus&descFontSize=17&descAlignY=64&descColor=00F5D4" width="100%" alt="Header Banner" />
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E1B4B,100:00F5D4&height=220&section=header&text=Moh.+Eka+Syafrino+Nazhifan&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Fullstack+%2F+Cloud-Native+Engineer+%7C+TKJ+Alumnus&descFontSize=17&descAlignY=64&descColor=00F5D4)
 
 <!-- ==================== TYPING TERMINAL ANIMATION ==================== -->
 <a href="https://github.com/exa31">
