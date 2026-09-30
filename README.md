@@ -261,11 +261,3 @@ root@eka-station:~$ neofetch --profile
 
 </details>
 
----
-
-<div align="center">
-  <a href="https://github.com/exa31">
-    <img src="https://hits.sh/github.com/exa31.svg?style=for-the-badge&label=PROFILE+VIEWS&color=00F5D4&labelColor=0D1117" alt="Profile Views" />
-  </a>
-</div>
-
