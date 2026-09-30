@@ -33,29 +33,6 @@
 
 ---
 
-### 🚀 Mission Control & Current Status
-
-<table>
-  <tr>
-    <td width="30%">⚡ <b>Currently Building</b></td>
-    <td><b><a href="https://hris.eka-dev.cloud">Nexus HRIS</a></b> — Full-stack enterprise HR management system with Nuxt 4, Vue 3, PrimeVue & PostgreSQL</td>
-  </tr>
-  <tr>
-    <td width="30%">🔬 <b>Exploring & Scaling</b></td>
-    <td>Cloud-native Kubernetes architecture, Go microservices, and event-driven architectures with GCP Pub/Sub & RabbitMQ</td>
-  </tr>
-  <tr>
-    <td width="30%">💼 <b>Career Readiness</b></td>
-    <td><b>Available & Open</b> for FrontEnd, BackEnd, or Fullstack Developer opportunities (Full-time / High-impact Contract)</td>
-  </tr>
-  <tr>
-    <td width="30%">📍 <b>Base Coordinates</b></td>
-    <td>Indonesia 🇮🇩 • Computer Network Engineering (TKJ) Alumnus</td>
-  </tr>
-</table>
-
----
-
 ### 🖥️ `systemctl status profile.service`
 
 ```yaml
@@ -293,6 +270,6 @@ root@eka-station:~$ neofetch --profile
   <br/>
   
   <a href="https://github.com/exa31">
-    <img src="https://visitcount.itsvg.in/api?id=exa31&icon=5&color=00F5D4" alt="Visitors Count" />
+    <img src="https://komarev.com/ghpvc/?username=exa31&color=00F5D4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 </div>
