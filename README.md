@@ -261,15 +261,11 @@ root@eka-station:~$ neofetch --profile
 
 </details>
 
-<br/>
+---
 
 <div align="center">
-  <!-- Glowing Footer Accent Line -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,50:7928CA,100:FF007A&height=4&section=footer" width="100%" alt="Accent Bar" />
-
-  <br/>
-  
   <a href="https://github.com/exa31">
-    <img src="https://komarev.com/ghpvc/?username=exa31&color=00F5D4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://hits.sh/github.com/exa31.svg?style=for-the-badge&label=PROFILE+VIEWS&color=00F5D4&labelColor=0D1117" alt="Profile Views" />
   </a>
 </div>
+
